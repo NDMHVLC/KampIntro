@@ -1,0 +1,15 @@
+﻿using System;
+
+namespace Matematik
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Dortİslem dortİslem = new Dortİslem();
+            dortİslem.Topla(12, 15);
+            dortİslem.Topla(10, 20);
+
+        }
+    }
+}
